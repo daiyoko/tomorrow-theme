@@ -1,3 +1,4 @@
 export CLICOLOR=1
+export h=$HOME/Desktop
 PS1="\w\n$ "
 cd ~/Desktop
